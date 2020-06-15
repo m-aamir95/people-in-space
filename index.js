@@ -10,10 +10,4 @@ const spacePeople = async () => {
     };
 }
 
-
-spacePeople()
-.then(
-    response => console.log(response.people)
-)
-
-module.exports = spacePeople;
+module.exports = spacePeople();

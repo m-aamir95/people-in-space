@@ -4,7 +4,6 @@
   "description": "A simple demo package, that retrieves the list of people currently in space( International Space Station). The Purpose of this package is to go through the steps of creating an npm package",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
