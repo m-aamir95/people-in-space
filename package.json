@@ -1,0 +1,28 @@
+{
+  "name": "people-in-space",
+  "version": "1.0.0",
+  "description": "A simple demo package, that retreives the list of people currently in space( International Space Station). The Purpose of this package is to go through the steps of creating an npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djzaamir/people-in-space.git"
+  },
+  "keywords": [
+    "People",
+    "In",
+    "Space",
+    "International",
+    "Space",
+    "Station",
+    "Space"
+  ],
+  "author": "Aamir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djzaamir/people-in-space/issues"
+  },
+  "homepage": "https://github.com/djzaamir/people-in-space#readme"
+}
