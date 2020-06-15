@@ -1,7 +1,7 @@
 {
   "name": "people-in-space",
   "version": "1.0.0",
-  "description": "A simple demo package, that retreives the list of people currently in space( International Space Station). The Purpose of this package is to go through the steps of creating an npm package",
+  "description": "A simple demo package, that retrieves the list of people currently in space( International Space Station). The Purpose of this package is to go through the steps of creating an npm package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/djzaamir/people-in-space/issues"
   },
-  "homepage": "https://github.com/djzaamir/people-in-space#readme"
+  "homepage": "https://github.com/djzaamir/people-in-space#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
 }
